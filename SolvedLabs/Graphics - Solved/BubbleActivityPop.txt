@@ -1,0 +1,4 @@
+03-11 20:31:30.734: I/Lab-Graphics(1894): Creating Bubble at: x:250.0 y:250.0
+03-11 20:31:32.238: I/Lab-Graphics(1894): Pop!
+03-11 20:31:32.742: I/Lab-Graphics(1894): Bubble removed from view!
+03-11 20:31:32.742: I/Choreographer(1894): Skipped 59 frames!  The application may be doing too much work on its main thread.
